@@ -40,5 +40,5 @@ segment-wise performance of Global Superstore data.
 - Data Storytelling
 - User Interactivity with Streamlit
 - Visual KPI Analysis
-- ##Author
+- ## Author
 - Syed Abdullah Shamsi
